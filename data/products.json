@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "pId": "i001",
+            "pName": "Smart Watch",
+            "pPrice": 4000
+        },
+        {
+            "pId": "i002",
+            "pName": "Smart TV",
+            "pPrice": 41000
+        },
+        {
+            "pId": "i003",
+            "pName": "Smart Phone",
+            "pPrice": 21000
+        }
+    ]
+}
